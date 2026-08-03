@@ -1716,11 +1716,12 @@ def check_ffmpeg_existence() -> bool:
 
 # --------------------------初始化程序-------------------------------------
 print("-----------------------------------------------------")
-print("|                DouyinLiveRecorder                 |")
+print("|                  LiveRecorder                     |")
 print("-----------------------------------------------------")
 
 print(f"版本号: {version}")
-print("GitHub: https://github.com/ihmily/DouyinLiveRecorder")
+print("GitHub: https://github.com/qgeng1465/LiveRecorder")
+print("Upstream: https://github.com/ihmily/DouyinLiveRecorder")
 print(f'支持平台: {platforms}')
 print('.....................................................')
 if not check_ffmpeg_existence():

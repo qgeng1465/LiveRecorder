@@ -87,6 +87,10 @@ logs/
 node/
 node-v*.zip
 
+# 运行时自动下载的 ffmpeg（首次运行会下载到这里，勿提交）
+ffmpeg/
+ffmpeg_*.zip
+
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
 #   intended to run in multiple environments; otherwise, check them in:
