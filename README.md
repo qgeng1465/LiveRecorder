@@ -578,3 +578,11 @@ This project is released under the [MIT](LICENSE) license.
 - **This fork**: maintained by qgeng1465, Copyright (c) 2026
 
 Thanks to Hmily for the original work. When using this project, please comply with the MIT license and retain the copyright notice.
+
+---
+
+## ☕ Support
+
+If this project is useful to you, you can support its development:
+
+![Support](likes.jpg)
