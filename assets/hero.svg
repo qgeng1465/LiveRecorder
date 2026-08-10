@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 460" width="1280" height="460" role="img" aria-label="LiveRecorder - multi-platform live stream recorder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.55" stop-color="#1e1b4b"/>
+      <stop offset="1" stop-color="#312e81"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f59e0b"/>
+      <stop offset="0.5" stop-color="#ef4444"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="460" fill="url(#bg)"/>
+  <rect y="0" width="1280" height="6" fill="url(#accent)"/>
+
+  <circle cx="1100" cy="60" r="160" fill="rgba(255,255,255,0.035)"/>
+  <circle cx="180" cy="400" r="200" fill="rgba(255,255,255,0.03)"/>
+  <circle cx="1180" cy="360" r="120" fill="rgba(139,92,246,0.08)"/>
+
+  <text x="640" y="168" text-anchor="middle" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size="78" font-weight="800" fill="#ffffff">LiveRecorder</text>
+
+  <text x="640" y="226" text-anchor="middle" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="30" fill="#cbd5e1" font-weight="600">24/7 Multi-platform Live Stream Recorder</text>
+  <text x="640" y="264" text-anchor="middle" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="22" fill="#94a3b8">Fork of DouyinLiveRecorder · now with WeChat Channels 视频号 support</text>
+
+  <g font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size="19" fill="#e2e8f0" text-anchor="middle" dominant-baseline="central">
+    <g>
+      <rect x="79" y="308" width="210" height="46" rx="23" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.18)" stroke-width="1"/>
+      <text x="184" y="331">抖音 Douyin</text>
+      <rect x="307" y="308" width="210" height="46" rx="23" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.18)" stroke-width="1"/>
+      <text x="412" y="331">快手 Kuaishou</text>
+      <rect x="535" y="308" width="210" height="46" rx="23" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.18)" stroke-width="1"/>
+      <text x="640" y="331">虎牙 Huya</text>
+      <rect x="763" y="308" width="210" height="46" rx="23" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.18)" stroke-width="1"/>
+      <text x="868" y="331">斗鱼 Douyu</text>
+      <rect x="991" y="308" width="210" height="46" rx="23" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.18)" stroke-width="1"/>
+      <text x="1096" y="331">B站 Bilibili</text>
+    </g>
+    <g>
+      <rect x="79" y="374" width="210" height="46" rx="23" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.18)" stroke-width="1"/>
+      <text x="184" y="397">TikTok</text>
+      <rect x="307" y="374" width="210" height="46" rx="23" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.18)" stroke-width="1"/>
+      <text x="412" y="397">Twitch</text>
+      <rect x="535" y="374" width="210" height="46" rx="23" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.18)" stroke-width="1"/>
+      <text x="640" y="397">YouTube</text>
+      <rect x="763" y="374" width="210" height="46" rx="23" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.18)" stroke-width="1"/>
+      <text x="868" y="397">视频号 WeChat</text>
+      <rect x="991" y="374" width="210" height="46" rx="23" fill="rgba(139,92,246,0.22)" stroke="rgba(139,92,246,0.5)" stroke-width="1.5"/>
+      <text x="1096" y="397">50+ 更多 More</text>
+    </g>
+  </g>
+</svg>

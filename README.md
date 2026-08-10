@@ -12,8 +12,13 @@
     <img src="https://img.shields.io/badge/Python-3.10%2B-blue" alt="Python">
     <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20Docker-lightgrey" alt="Platform">
     <img src="https://img.shields.io/github/stars/qgeng1465/LiveRecorder" alt="Stars">
+    <img src="https://github.com/qgeng1465/LiveRecorder/actions/workflows/ci.yml/badge.svg" alt="CI">
     <img src="https://img.shields.io/github/last-commit/qgeng1465/LiveRecorder" alt="Last commit">
   </p>
+</p>
+
+<p align="center">
+  <img src="assets/hero.svg" alt="LiveRecorder" width="100%">
 </p>
 
 **LiveRecorder** is an FFmpeg-based **24/7 live-stream recording tool**. Add a room URL to the config file and the program automatically polls for live status, records, reconnects after disconnects, segments long streams, and sends you notifications when a streamer goes live. It supports **50+ platforms** — Douyin/TikTok, Kuaishou, Huya, Douyu, Bilibili, Twitch, YouTube and more — plus **WeChat Channels (视频号)**, a feature the upstream project does not have.
@@ -25,6 +30,8 @@ This project is a fork of [DouyinLiveRecorder](https://github.com/ihmily/DouyinL
 - 🪶 **Slimmer runtime** — unused ffmpeg components and Node modules removed
 
 > ⚠️ For learning and personal use only. Before recording someone's live stream, please get their permission and respect the streamer's copyright and personal information.
+
+> ⭐ If LiveRecorder is useful to you, please give it a **star** — it helps other people discover the project. Issues and PRs are always welcome!
 
 ---
 

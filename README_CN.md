@@ -12,8 +12,13 @@
     <img src="https://img.shields.io/badge/Python-3.10%2B-blue" alt="Python">
     <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20Docker-lightgrey" alt="Platform">
     <img src="https://img.shields.io/github/stars/qgeng1465/LiveRecorder" alt="Stars">
+    <img src="https://github.com/qgeng1465/LiveRecorder/actions/workflows/ci.yml/badge.svg" alt="CI">
     <img src="https://img.shields.io/github/last-commit/qgeng1465/LiveRecorder" alt="Last commit">
   </p>
+</p>
+
+<p align="center">
+  <img src="assets/hero.svg" alt="LiveRecorder" width="100%">
 </p>
 
 基于 FFmpeg 的**多平台直播循环值守录制工具**：把直播间地址写进配置，程序自动轮询开播状态、录制、断线重连、分段保存、推送开播提醒，支持抖音、快手、虎牙、斗鱼、B站、Twitch、YouTube 等 **50+ 平台**，并新增了**微信视频号**录制支持（上游原版没有的功能）。
@@ -25,6 +30,8 @@
 - 🪶 **运行时精简**——移除未使用的 ffmpeg 组件与 Node 模块
 
 > ⚠️ 本项目仅供学习交流。录制他人直播前请先获得授权，尊重主播著作权与个人信息。
+
+> ⭐ 如果 LiveRecorder 对你有帮助，请给项目点个 **Star**，让更多人看到。有任何问题欢迎提 issue 和 PR！
 
 ---
 
